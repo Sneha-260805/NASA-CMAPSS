@@ -2,7 +2,7 @@
 ### Hybrid Predictive Maintenance using the NASA CMAPSS Dataset
 
 > **Course:** Machine Learning (CS3102) — Mahindra University, École Centrale School of Engineering  
-> **Mentor:** Dr. Neeraj Choudhary  
+ 
 > **Submitted:** May 8, 2025
 
 ---
@@ -181,22 +181,6 @@ Install all at once:
 pip install scikit-learn xgboost numpy pandas matplotlib umap-learn joblib
 ```
 
----
 
-## Team
 
-| Name | Roll No. |
-|------|----------|
-| Sneha Suravajjula | SE23UARI121 |
-| Puchalapalli Harika | SE23UARI097 |
-| Ananya Pachwa | SE23UARI087 |
-| Srija Polisetty | SE23UARI094 |
-| Damodaram Lalitha Manasvini | SE23UCSE051 |
 
----
-
-## Citation
-
-If you use this work, please cite the original dataset:
-
-> A. Saxena, K. Goebel, D. Simon, and N. Eklund, "Damage propagation modeling for aircraft engine run-to-failure simulation," in *2008 International Conference on Prognostics and Health Management*, IEEE, 2008.
